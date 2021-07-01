@@ -1,4 +1,4 @@
-### [Aplikasi Data Pegawai] (https://dashboard.heroku.com/apps)
+### [Aplikasi Data Pegawai] (-)
 ### [Penjelasan Diagram]    (https://drive.google.com/file/d/1-tEalsY0gp8g4RBok2AT_l8teTo7vnRY/view)
 #### By
 - Nama  : Erista Nova Saputri
